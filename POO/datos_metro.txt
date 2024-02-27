@@ -1,0 +1,5 @@
+Estación, Enero, Febrero, Marzo
+Zocalo, 100,200,300
+Bellas Artes, 400,500,600
+Juarez, 700,800,900
+Hidalgo, 1000,1100,1200
